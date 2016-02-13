@@ -14,3 +14,10 @@ This method converts the string into a symbol. Not reccommended, because this mi
 	  => {:name=>"Julio"}
 	  
 This method uses plain symbols.
+
+**Ending colon**
+
+	h = { name: "Julio" }
+	  => {name:"Julio"}
+
+This method uses ending colons to map to symbols. This syntax apparently is only Ruby > 1.9.
