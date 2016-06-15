@@ -1,4 +1,4 @@
-# Opening a Django shell while on Sublime Text
+# How to open a Django REPL inside a virtualenv using SublimeREPL
 I found some instructions online to use a Django shell inside SublimeREPL, but they didn't apply for virtualenv, which was screwing up the setup due to it not finding config files.
 
 I hacked together a script to fix it, making it compatible with virtualenv.
