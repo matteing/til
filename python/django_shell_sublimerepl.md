@@ -26,4 +26,4 @@ Now, when you want to open a shell inside Sublime, all you have to do is open a 
     
 That's it! You now have a fully working django shell inside your sublime text editor. Happy hacking!
 
-![REPL inside venv](http://i.imgur.com/aCTj7V3.png)
+![REPL inside venv](http://i.imgur.com/ClQhazx.png)
